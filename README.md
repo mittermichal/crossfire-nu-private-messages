@@ -3,7 +3,7 @@ Messages will be saved as json file.
 
 ### How to use:
 - download [crossfire-nu-private-messages.py](https://github.com/mittermichal/crossfire-nu-private-messages/raw/main/crossfire-nu-private-messages.py)
-- install python 3
+- install [python 3](https://www.python.org/downloads/)
 - install BeautifulSoup4: `pip install beautifulsoup4`
 - run the script: `python crossfire-nu-private-messages.py`
 
